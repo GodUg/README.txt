@@ -1,0 +1,29 @@
+GODWIN_DISTAR@DESKTOP-ENLK40A MINGW64 ~ (master)
+$ mkdir README
+
+GODWIN_DISTAR@DESKTOP-ENLK40A MINGW64 ~ (master)
+$ cd readme
+
+GODWIN_DISTAR@DESKTOP-ENLK40A MINGW64 ~/readme (master)
+$ git clone https://github.com/GodUg/README.txt.git
+Cloning into 'README.txt'...
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+
+GODWIN_DISTAR@DESKTOP-ENLK40A MINGW64 ~/readme (master)
+$ cd readme.txt
+
+GODWIN_DISTAR@DESKTOP-ENLK40A MINGW64 ~/readme/readme.txt (master)
+$ ls
+README.md
+
+GODWIN_DISTAR@DESKTOP-ENLK40A MINGW64 ~/readme/readme.txt (master)
+$ cat README.md
+# README.txt
+My project repository for Manage your code with Git and GitHub. This is my exercise
+
+GODWIN_DISTAR@DESKTOP-ENLK40A MINGW64 ~/readme/readme.txt (master)
+$ 
